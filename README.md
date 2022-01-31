@@ -1,6 +1,6 @@
 # Recommender_System_Exercise
 
-This exercise gives the idea 
+This exercise gives the idea different recommendation systems such as knowledge based, content based and at last collaborative filtering based algorithm. It also provides the use-cases of neighborhood based and model based collaborative filtering algorithm.
 
 ## Project Motivation
 Machine
